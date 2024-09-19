@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto.md",
+                "file": "beginner Crypto lectures/Crypto.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,14 +26,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equivalence Classes.md",
+                "file": "beginner Crypto lectures/Equivalence Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3177e1873a0534a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "beginner Crypto lectures/Mod arithmetic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5627865efb4fec42",
@@ -44,8 +56,11 @@
             "id": "b3c4a106c63af0f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "beginner Crypto lectures/Mod arithmetic.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -114,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "beginner Crypto lectures/Mod arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "beginner Crypto lectures/Mod arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,15 +168,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "beginner Crypto lectures/Mod arithmetic.md"
+              }
+            }
+          },
+          {
+            "id": "ec4ed5e7fe1fad4c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3c4a106c63af0f5",
+  "active": "c3177e1873a0534a",
   "lastOpenFiles": [
-    "Equivalence Classes.md",
-    "Crypto.md",
-    "Christof paar Rings.md",
-    "Mod arithmetic.md",
-    "create a link.md",
-    "Welcome.md"
+    "beginner Crypto lectures/Equivalence Classes.md",
+    "beginner Crypto lectures/Christof paar Rings.md",
+    "beginner Crypto lectures/Crypto.md",
+    "README.md",
+    "Welcome.md",
+    "Untitled/Untitled.md",
+    "beginner Crypto lectures/Mod arithmetic.md",
+    "beginner Crypto lectures",
+    "create a link.md"
   ]
 }
