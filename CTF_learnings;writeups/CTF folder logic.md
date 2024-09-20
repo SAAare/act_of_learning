@@ -1,0 +1,1 @@
+Most of my CTF solving will never reach this folder, this folder is for interesting problems/writeups and when i learn something

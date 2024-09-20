@@ -1,10 +1,10 @@
 After burning out of uni, I took a break from coding and study and now im back and studying with a passion I've never felt before, this is (hopefully) the result/notes on anything I do.
 
-These notes are engineered for maximal efficiency for myself and as such I do not promise them to helpful study aids for anyone (also taking notes is the act of study it self in many cases)
+These notes are engineered for maximal efficiency for myself and as such I do not promise them to be helpful study aids for anyone (also taking notes is the act of study it self in many cases)
 
 Using [Obsidian](https://obsidian.md/) as the note making tool of choice
 also practicing proper maths markdown
-
+probably moving to nvim editing the obsidian vault soon
 
 Started on 18.09.2024
 Currently going through Introduction to [[Crypto]] by Cristof Paar

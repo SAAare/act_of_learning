@@ -4,5 +4,8 @@ Still learning proper file management
 Lecture 2 notes:
 [[Mod arithmetic]]
 [[Equivalence Classes]]
-[[Christof paar Rings]]
+[[Rings]]
 [[Historical Ciphers#Caesar Cipher]] [[Historical Ciphers#Affine Cipher]]
+Lecture 3:
+[[Stream Ciphers]]
+[[RNG]]

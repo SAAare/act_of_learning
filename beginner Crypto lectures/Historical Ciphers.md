@@ -23,5 +23,5 @@ the gcd is important so we always have an multiplicative inverse #crings
 
 keyspace is
 $K=A*B$
-312 keys its too little 
+26*12(number of bases)=312 keys its too little 
 and letter frequency analysis still works too its pretty bad

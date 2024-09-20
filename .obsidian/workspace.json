@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner Crypto lectures/Christof paar Rings.md",
+                "file": "beginner Crypto lectures/Rings.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,14 +50,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "beginner Crypto lectures/Crypto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e99c4fcca25f22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "beginner Crypto lectures/Stream Ciphers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b89790fe879bf8c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "5627865efb4fec42",
@@ -104,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "D",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals.md",
+                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals.md",
+                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals.md"
+                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md"
               }
             }
           },
@@ -211,16 +235,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c5e1b815a00a95d",
+  "active": "b89790fe879bf8c6",
   "lastOpenFiles": [
-    "README.md",
-    "Goals.md",
-    "beginner Crypto lectures/Christof paar Rings.md",
-    "beginner Crypto lectures/Equivalence Classes.md",
     "beginner Crypto lectures/Mod arithmetic.md",
-    "beginner Crypto lectures/Historical Ciphers.md",
-    "beginner Crypto lectures/Crypto.md",
+    "Daily journals/2024-09-20.md",
+    "Goals.md",
     "Daily journals/2024-09-19.md",
+    "CTF_learnings;writeups/CTF folder logic.md",
+    "beginner Crypto lectures/Linear Feedback Shift Registers.md",
+    "beginner Crypto lectures/Stream Ciphers.md",
+    "beginner Crypto lectures/Untitled",
+    "beginner Crypto lectures/RNG.md",
+    "beginner Crypto lectures/Equivalence Classes.md",
+    "beginner Crypto lectures/Historical Ciphers.md",
+    "beginner Crypto lectures/Rings.md",
+    "beginner Crypto lectures/Crypto.md",
+    "Crypto RNG.md",
+    "Untitled.md",
+    "CTF_learnings;writeups/picoCTF/Untitled.md",
+    "CTF_learnings;writeups/picoCTF",
+    "README.md",
+    "CTF_learnings;writeups",
+    "2024-09-20.md",
     "Daily journals",
     "Untitled/Untitled.md",
     "beginner Crypto lectures",

@@ -1,1 +1,5 @@
-{}
+{
+  "alwaysUpdateLinks": false,
+  "newFileLocation": "current",
+  "promptDelete": true
+}

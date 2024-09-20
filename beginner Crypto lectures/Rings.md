@@ -1,5 +1,6 @@
 # Algebraic view of mod arithmetic
-#crings
+#rings
+#mod_math
 The integer ring $\mathcal Z_m$consists of
 1. The set  = {0,1,2,3,4,...,m-1}
 2. The operators "+" and " * " such that
