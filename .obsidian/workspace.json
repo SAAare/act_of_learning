@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md",
+                "file": "beginner Crypto lectures/Equivalence Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md",
+                "file": "beginner Crypto lectures/Equivalence Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md",
+                "file": "beginner Crypto lectures/Equivalence Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginner Crypto lectures/Linear Feedback Shift Registers.md"
+                "file": "beginner Crypto lectures/Equivalence Classes.md"
               }
             }
           },
@@ -237,24 +237,25 @@
   },
   "active": "b89790fe879bf8c6",
   "lastOpenFiles": [
-    "beginner Crypto lectures/Mod arithmetic.md",
-    "Daily journals/2024-09-20.md",
-    "Goals.md",
-    "Daily journals/2024-09-19.md",
-    "CTF_learnings;writeups/CTF folder logic.md",
-    "beginner Crypto lectures/Linear Feedback Shift Registers.md",
-    "beginner Crypto lectures/Stream Ciphers.md",
-    "beginner Crypto lectures/Untitled",
-    "beginner Crypto lectures/RNG.md",
-    "beginner Crypto lectures/Equivalence Classes.md",
     "beginner Crypto lectures/Historical Ciphers.md",
+    "beginner Crypto lectures/Linear Feedback Shift Registers.md",
+    "beginner Crypto lectures/Mod arithmetic.md",
+    "beginner Crypto lectures/Stream Ciphers.md",
+    "beginner Crypto lectures/RNG.md",
+    "Daily journals/2024-09-23.md",
+    "Daily journals/2024-09-20.md",
+    "Daily journals/2024-09-19.md",
+    "README.md",
+    "Goals.md",
+    "CTF_learnings;writeups/CTF folder logic.md",
+    "beginner Crypto lectures/Untitled",
+    "beginner Crypto lectures/Equivalence Classes.md",
     "beginner Crypto lectures/Rings.md",
     "beginner Crypto lectures/Crypto.md",
     "Crypto RNG.md",
     "Untitled.md",
     "CTF_learnings;writeups/picoCTF/Untitled.md",
     "CTF_learnings;writeups/picoCTF",
-    "README.md",
     "CTF_learnings;writeups",
     "2024-09-20.md",
     "Daily journals",
